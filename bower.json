@@ -1,0 +1,26 @@
+{
+  "name": "le-migration",
+  "version": "0.0.1",
+  "authors": [
+    "Altug Sahin <altug@aecoffice.com>"
+  ],
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "moment": "~2.7.0",
+    "font-awesome": "~4.1.0",
+    "bootstrap-sass-official": "~3.2.0",
+    "handlebars": "~1.3.0",
+    "ember": "~1.6.0",
+    "ember-data": "master"
+  }
+}
